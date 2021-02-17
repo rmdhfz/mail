@@ -9,7 +9,7 @@ import (
 
 const SMTP_HOST = "yoursmtp@tld.com"
 const SMTP_PORT = 0
-const SENDER_NAME = "yourname <youremail@tld.com"
+const SENDER_NAME = "yourname <youremail@tld.com>"
 const EMAIL = "youremail@tld.com"
 const PASSWORD = "yourpassword"
 
